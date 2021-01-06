@@ -58,6 +58,7 @@ decl_error! {
         ProofAlreadyClaimed,
         NoSuchProof,
         NotProofOwner,
+        FileSizeTooLarge,
     }
 }
 
@@ -87,7 +88,10 @@ decl_module! {
             let sender = ensure_signed(origin)?;
 
             // Verify that the specified proof has not already been claimed.
-            ensure!(!Proofs::<T>::contains_key(&proof), Error::<T>::ProofAlreadyClaimed);
+            ensure!(!Proofs::<T>::contains_key(proof.clone()), Error::<T>::ProofAlreadyClaimed);
+
+            // check proof size
+            ensure!(proof.len() < 10, Error::<T>::FileSizeTooLarge);
 
             // Get the block number from the FRAME System module.
             let current_block = <frame_system::Module<T>>::block_number();

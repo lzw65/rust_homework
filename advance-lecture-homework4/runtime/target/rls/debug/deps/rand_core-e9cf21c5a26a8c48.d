@@ -1,0 +1,12 @@
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/rand_core-e9cf21c5a26a8c48.rmeta: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/librand_core-e9cf21c5a26a8c48.rlib: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/rand_core-e9cf21c5a26a8c48.d: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs
+
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/lib.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/block.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/error.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/impls.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/le.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/rand_core-0.6.1/src/os.rs:

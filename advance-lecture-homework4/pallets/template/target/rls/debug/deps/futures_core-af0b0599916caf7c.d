@@ -1,0 +1,11 @@
+/home/lzw/code/rust/advance-lecture-04-ocw/assignment/lecture-demo/pallets/template/target/rls/debug/deps/futures_core-af0b0599916caf7c.rmeta: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/future.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/stream.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/mod.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/poll.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/mod.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/atomic_waker.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/assignment/lecture-demo/pallets/template/target/rls/debug/deps/futures_core-af0b0599916caf7c.d: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/future.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/stream.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/mod.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/poll.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/mod.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/atomic_waker.rs
+
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/lib.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/future.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/stream.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/mod.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/poll.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/mod.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-core-0.3.11/src/task/__internal/atomic_waker.rs:

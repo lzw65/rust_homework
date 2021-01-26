@@ -1,0 +1,11 @@
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/cargo_metadata-823c79504ff9b750.rmeta: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/libcargo_metadata-823c79504ff9b750.rlib: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/cargo_metadata-823c79504ff9b750.d: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs
+
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/lib.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/dependency.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/diagnostic.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/errors.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/cargo_metadata-0.12.2/src/messages.rs:

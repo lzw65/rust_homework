@@ -1,0 +1,10 @@
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/substrate_wasm_builder-7779661b1d36560f.rmeta: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/libsubstrate_wasm_builder-7779661b1d36560f.rlib: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/lecture-demo/runtime/target/rls/debug/deps/substrate_wasm_builder-7779661b1d36560f.d: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs
+
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/lib.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/builder.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/prerequisites.rs:
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/substrate-wasm-builder-3.0.0/src/wasm_project.rs:

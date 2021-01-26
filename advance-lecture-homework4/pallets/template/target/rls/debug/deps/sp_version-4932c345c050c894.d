@@ -1,0 +1,5 @@
+/home/lzw/code/rust/advance-lecture-04-ocw/assignment/lecture-demo/pallets/template/target/rls/debug/deps/sp_version-4932c345c050c894.rmeta: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-version-2.0.1/src/lib.rs
+
+/home/lzw/code/rust/advance-lecture-04-ocw/assignment/lecture-demo/pallets/template/target/rls/debug/deps/sp_version-4932c345c050c894.d: /home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-version-2.0.1/src/lib.rs
+
+/home/lzw/.cargo/registry/src/github.com-1ecc6299db9ec823/sp-version-2.0.1/src/lib.rs:
